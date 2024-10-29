@@ -91,8 +91,7 @@ body {
 	font-family: 'Spectral';
 	font-size: 25px;
 	font-style: italic;
-	
-	
+	font-display: swap;
 }
 
 #about-me p {
@@ -161,20 +160,23 @@ body {
 	font-style: italic;
 	width: 70%;	
 	margin: auto;
+	font-display: swap;
 }
 
 .quote__text {
-	font-family: Spectral;
+	font-family: 'Spectral';
 	font-style: italic;
 	font-weight: 300;
 	font-size:20px;
+	font-display: swap;
 }
 
 	
 .quote__author {
-	font-family: Spectral;
+	font-family: 'Spectral';
 	font-weight: 800;
 	font-size: 22px;
+	font-display: swap;
 }
 /* .title {
 	padding: 50,0,50,0px;
