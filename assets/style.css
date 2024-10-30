@@ -109,6 +109,7 @@ body {
 .nav-item{
 	font-size: 22px;
 }
+
 .gallery .navbar {
 	justify-content: center;
 	align-items: center;
@@ -116,12 +117,11 @@ body {
 .my-4{
 	justify-content: center;
 	}
-
+	
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #BEB45A;
-	border-radius:0 ;
-
+	border-radius:0 ;	
 }
 .nav-pills .nav-link {
 	color: #000
@@ -367,7 +367,13 @@ input[type="submit"] {
 		text-align: center;
 	}
 	.picture.left::before, .picture.right::before {
+
 		height: 150px;
+	}
+	.gallery-item  {
+		width: 100%;
+		}
+		
 	}
 	#services .container {
 		align-items: center;
@@ -387,5 +393,5 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
-}
 
+	
