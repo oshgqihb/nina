@@ -379,9 +379,6 @@ input[type="submit"] {
     padding-inline: 2em;
     padding-block: 2em;
   }
-  #about-me {
-	flex: unset;
-  }
   form {
     width: 100%;
   }
