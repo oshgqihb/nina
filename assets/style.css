@@ -380,7 +380,8 @@ input[type="submit"] {
     padding-block: 2em;
   }
   #about-me {
-    flex:1;
+    flex:unset;
+    max-width: 100vh;
   }
   form {
     width: 100%;
