@@ -6,6 +6,7 @@ body {
 * {
   font-family: "Inter";
   font-style: normal;
+  font-display: swap;
 }
 
 .header_container {
@@ -374,11 +375,11 @@ input[type="submit"] {
   .service {
     max-width: 90%;
   }
-  #about,
+  /* #about,
   #contact {
     padding-inline: 2em;
     padding-block: 2em;
-  }
+  } */
   #about-me {
     flex:unset;
     max-width: 100vh;
