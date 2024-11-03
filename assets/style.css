@@ -368,7 +368,10 @@ input[type="submit"] {
   .gallery-item {
     width: 100%;
   }
-
+.carousel-item {
+  transition: unset;
+  margin-right: 0;
+}
   #services .container {
     align-items: center;
   }
